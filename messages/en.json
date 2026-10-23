@@ -1,0 +1,123 @@
+{
+  "nav": {
+    "heading": "Navigation",
+    "how": "How it works",
+    "mission": "Our mission",
+    "faq": "FAQ",
+    "cta": "Join the launch",
+    "openMenu": "Open navigation menu",
+    "closeMenu": "Close navigation menu"
+  },
+  "hero": {
+    "eyebrow": "A new approach to waste recovery in Algeria",
+    "headlinePrefix": "Turn waste into",
+    "headlineHighlight": "opportunity.",
+    "description": "Wastoo is building a platform that connects citizens, collectors, and waste-recovery partners to make waste management more accessible and organized.",
+    "primaryCta": "Discover Wastoo",
+    "secondaryCta": "Coming soon",
+    "launchStatus": "Coming soon in Algeria",
+    "mapAlt": "Wastoo app map screen showing a route and map controls"
+  },
+  "product": {
+    "eyebrow": "A look inside the app",
+    "heading": "Meet the Wastoo platform.",
+    "lead": "A look at real screens from the Wastoo app.",
+    "galleryLabel": "Wastoo app screen gallery",
+    "postsTitle": "Posts & map",
+    "postsCaption": "Browse waste-related listings.",
+    "postsAlt": "Wastoo app screen showing waste-related posts",
+    "mapTitle": "Map view",
+    "mapCaption": "Explore the map and route view.",
+    "mapAlt": "Wastoo app map screen with a route and map controls",
+    "flowTitle": "Create a listing",
+    "flowCaption": "Choose a material and pickup location.",
+    "flowAlt": "Wastoo app screen for listing waste, with material and pickup-location fields"
+  },
+  "problem": {
+    "heading": "Waste deserves a better journey.",
+    "lead": "Finding the right people, places, and opportunities for waste recovery can be difficult. Wastoo aims to make those connections easier to discover through one accessible digital platform.",
+    "discoveryTitle": "Discovery",
+    "discoveryDescription": "Help people discover relevant locations and waste-related opportunities.",
+    "connectionTitle": "Connection",
+    "connectionDescription": "Bring citizens and waste-recovery participants closer together.",
+    "organizationTitle": "Organization",
+    "organizationDescription": "Support a more connected and accessible waste-recovery ecosystem."
+  },
+  "how": {
+    "heading": "From waste to a better connection.",
+    "discoverTitle": "Discover",
+    "discoverDescription": "Find relevant waste-related locations, listings, or opportunities on the platform.",
+    "discoverScreenAlt": "Wastoo app screen showing waste posts and material filters.",
+    "connectTitle": "Connect",
+    "connectDescription": "See who else is part of the ecosystem and what they offer.",
+    "actionTitle": "Take action",
+    "actionDescription": "Use the available platform features to support the next step in the recovery process.",
+    "actionScreenAlt": "Wastoo app screen for listing waste, with material, listing type, and pickup location."
+  },
+  "roles": {
+    "heading": "One ecosystem. Different roles.",
+    "lead": "Wastoo is being developed to make it easier for people and organizations to discover their place in a more connected waste-recovery ecosystem.",
+    "citizensTitle": "Citizens",
+    "citizensDescription": "Citizens are participants in a more connected waste-recovery ecosystem.",
+    "inAppLabel": "In the app:",
+    "citizensInApp": "Browse posts and the map, then list waste to give away or sell.",
+    "collectorsTitle": "Collectors",
+    "collectorsDescription": "Collectors are participants in the waste-recovery network Wastoo aims to connect.",
+    "centersTitle": "Recycling and recovery centers",
+    "centersDescription": "Recycling and recovery centers are part of the network Wastoo aims to make easier to discover."
+  },
+  "mission": {
+    "heading": "Building a more connected future for waste recovery.",
+    "description": "We believe that better connections can create better opportunities for waste recovery. Wastoo is being developed to make relevant information and participants easier to discover, helping move toward a more organized and accessible ecosystem in Algeria.",
+    "graphicLabel": "An abstract network of connected points"
+  },
+  "launch": {
+    "eyebrow": "Follow the project",
+    "heading": "Be part of the Wastoo launch.",
+    "description": "We're working to bring Wastoo to Algeria. Follow our journey and be among the first to hear about the launch.",
+    "emailCta": "Email the Wastoo team",
+    "privacyNotice": "Your email app will open so you can contact the Wastoo team. Your address and message will be used to respond to your inquiry.",
+    "socialLead": "Follow Wastoo on social media:"
+  },
+  "faq": {
+    "heading": "Frequently asked questions.",
+    "lead": "A little more about Wastoo and where the project stands.",
+    "question1": "What is Wastoo?",
+    "answer1": "Wastoo is an Algerian environmental technology project developing a mobile platform intended to connect citizens, waste collectors, and waste-recovery participants.",
+    "question2": "Who is Wastoo for?",
+    "answer2": "The platform is being developed for citizens, collectors, and relevant waste-recovery organizations.",
+    "question3": "Is the mobile application available?",
+    "answer3": "The application is currently being developed. Follow Wastoo's official channels for launch announcements.",
+    "question4": "How can I follow the project?",
+    "answer4": "Visit Wastoo's official social media accounts using the verified links on this page.",
+    "question5": "Can an organization collaborate with Wastoo?",
+    "answer5": "Organizations interested in exploring collaboration can contact the Wastoo team at:"
+  },
+  "footer": {
+    "heading": "About Wastoo",
+    "description": "Wastoo is developing a platform to connect people and participants in waste recovery across Algeria.",
+    "navigation": "Explore",
+    "contact": "Contact",
+    "socials": "Follow Wastoo",
+    "copyrightFallback": "© Wastoo",
+    "copyright": "© {year} Wastoo. All rights reserved."
+  },
+  "meta": {
+    "title": "Wastoo | A more connected path for waste recovery",
+    "description": "Wastoo is developing a platform connecting Algeria’s citizens, collectors, and recovery partners. Its app is in development and not yet available."
+  },
+  "a11y": {
+    "mainContent": "Wastoo landing page",
+    "skipToContent": "Skip to main content",
+    "languageSwitcher": "Choose language",
+    "siteNavigation": "Main navigation",
+    "footerNavigation": "Footer navigation",
+    "homeLink": "Wastoo home",
+    "logoAlt": "Wastoo",
+    "languageNames": {
+      "ar": "العربية",
+      "fr": "Français",
+      "en": "English"
+    }
+  }
+}

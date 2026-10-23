@@ -1,0 +1,123 @@
+{
+  "nav": {
+    "heading": "Navigation",
+    "how": "Comment ça marche",
+    "mission": "Notre mission",
+    "faq": "FAQ",
+    "cta": "Suivre le lancement",
+    "openMenu": "Ouvrir le menu de navigation",
+    "closeMenu": "Fermer le menu de navigation"
+  },
+  "hero": {
+    "eyebrow": "Une nouvelle approche de la valorisation des déchets en Algérie",
+    "headlinePrefix": "Transformer les déchets en",
+    "headlineHighlight": "opportunités.",
+    "description": "Wastoo développe une plateforme qui relie les citoyens, les collecteurs et les acteurs de la valorisation des déchets pour rendre leur gestion plus accessible et mieux organisée.",
+    "primaryCta": "Découvrir Wastoo",
+    "secondaryCta": "Bientôt",
+    "launchStatus": "Bientôt en Algérie",
+    "mapAlt": "Écran cartographique de l’application Wastoo avec un itinéraire et ses commandes"
+  },
+  "product": {
+    "eyebrow": "À l’intérieur de l’application",
+    "heading": "Découvrez la plateforme Wastoo.",
+    "lead": "Quelques écrans réels de l’application Wastoo.",
+    "galleryLabel": "Galerie des écrans de l’application Wastoo",
+    "postsTitle": "Publications et carte",
+    "postsCaption": "Parcourir les annonces liées aux déchets.",
+    "postsAlt": "Écran de l’application Wastoo montrant des annonces liées aux déchets",
+    "mapTitle": "Vue carte",
+    "mapCaption": "Explorer la carte et l’itinéraire affiché.",
+    "mapAlt": "Écran cartographique Wastoo avec un itinéraire et des commandes de carte",
+    "flowTitle": "Créer une annonce",
+    "flowCaption": "Choisir un matériau et un lieu de collecte.",
+    "flowAlt": "Écran Wastoo de publication de déchets avec les champs de matériau et de lieu de collecte"
+  },
+  "problem": {
+    "heading": "Les déchets méritent un meilleur parcours.",
+    "lead": "Trouver les bonnes personnes, les bons lieux et les possibilités de valoriser les déchets peut être difficile. Wastoo veut rendre ces liens plus faciles à découvrir grâce à une plateforme numérique accessible.",
+    "discoveryTitle": "Découverte",
+    "discoveryDescription": "Aider à repérer les lieux pertinents et les possibilités liées aux déchets.",
+    "connectionTitle": "Mise en relation",
+    "connectionDescription": "Rapprocher les citoyens et les acteurs de la valorisation des déchets.",
+    "organizationTitle": "Organisation",
+    "organizationDescription": "Favoriser un écosystème de valorisation des déchets plus accessible et mieux relié."
+  },
+  "how": {
+    "heading": "Des déchets à des connexions utiles.",
+    "discoverTitle": "Découvrir",
+    "discoverDescription": "Repérer sur la plateforme les lieux, annonces ou possibilités liés aux déchets.",
+    "discoverScreenAlt": "Écran de l’application Wastoo présentant des annonces de déchets et des filtres par matériau.",
+    "connectTitle": "Se connecter",
+    "connectDescription": "Découvrez qui d’autre fait partie de l’écosystème et ce que ces acteurs proposent.",
+    "actionTitle": "Agir",
+    "actionDescription": "Utiliser les fonctionnalités disponibles pour soutenir la prochaine étape du processus de valorisation.",
+    "actionScreenAlt": "Écran de l’application Wastoo pour publier des déchets, avec le matériau, le type d’annonce et le lieu de collecte."
+  },
+  "roles": {
+    "heading": "Un écosystème. Des rôles différents.",
+    "lead": "Wastoo est en développement pour aider chacun à trouver sa place dans un écosystème de valorisation des déchets plus connecté.",
+    "citizensTitle": "Citoyens",
+    "citizensDescription": "Les citoyens participent à un écosystème de valorisation des déchets plus connecté.",
+    "inAppLabel": "Dans l’application :",
+    "citizensInApp": "Parcourir les annonces et la carte, puis publier des déchets à donner ou à vendre.",
+    "collectorsTitle": "Collecteurs",
+    "collectorsDescription": "Les collecteurs font partie du réseau de valorisation des déchets que Wastoo souhaite relier.",
+    "centersTitle": "Centres de recyclage et de valorisation",
+    "centersDescription": "Les centres de recyclage et de valorisation font partie du réseau que Wastoo souhaite rendre plus facile à découvrir."
+  },
+  "mission": {
+    "heading": "Construire un avenir plus connecté pour la valorisation des déchets.",
+    "description": "Nous pensons que de meilleurs liens peuvent ouvrir de nouvelles possibilités pour la valorisation des déchets. Wastoo est en développement afin de faciliter la découverte des informations utiles et des acteurs concernés, et de contribuer à un écosystème plus organisé et accessible en Algérie.",
+    "graphicLabel": "Réseau abstrait de points reliés"
+  },
+  "launch": {
+    "eyebrow": "Suivre le projet",
+    "heading": "Participez au lancement de Wastoo.",
+    "description": "Nous préparons l’arrivée de Wastoo en Algérie. Suivez notre parcours et soyez parmi les premiers informés du lancement.",
+    "emailCta": "Écrire à l’équipe Wastoo",
+    "privacyNotice": "Votre application de messagerie s’ouvrira pour contacter l’équipe Wastoo. Votre adresse et votre message serviront à répondre à votre demande.",
+    "socialLead": "Suivez Wastoo sur les réseaux sociaux :"
+  },
+  "faq": {
+    "heading": "Questions fréquentes.",
+    "lead": "Quelques précisions sur Wastoo et l’avancement du projet.",
+    "question1": "Qu’est-ce que Wastoo ?",
+    "answer1": "Wastoo est un projet algérien de technologie environnementale qui développe une application mobile destinée à mettre en relation les citoyens, les collecteurs de déchets et les acteurs de leur valorisation.",
+    "question2": "À qui s’adresse Wastoo ?",
+    "answer2": "La plateforme est en développement pour les citoyens, les collecteurs et les organismes concernés par la valorisation des déchets.",
+    "question3": "L’application mobile est-elle disponible ?",
+    "answer3": "L’application est actuellement en développement. Suivez les comptes officiels de Wastoo pour les annonces de lancement.",
+    "question4": "Comment suivre le projet ?",
+    "answer4": "Retrouvez les comptes officiels de Wastoo sur les réseaux sociaux grâce aux liens vérifiés sur cette page.",
+    "question5": "Une organisation peut-elle collaborer avec Wastoo ?",
+    "answer5": "Les organisations qui souhaitent échanger au sujet d’une collaboration peuvent contacter l’équipe Wastoo à l’adresse :"
+  },
+  "footer": {
+    "heading": "À propos de Wastoo",
+    "description": "Wastoo développe une plateforme pour rapprocher les citoyens et les acteurs de la valorisation des déchets en Algérie.",
+    "navigation": "Explorer",
+    "contact": "Contact",
+    "socials": "Suivre Wastoo",
+    "copyrightFallback": "© Wastoo",
+    "copyright": "© {year} Wastoo. Tous droits réservés."
+  },
+  "meta": {
+    "title": "Wastoo | Une meilleure connexion pour la valorisation des déchets",
+    "description": "Wastoo développe en Algérie une plateforme reliant citoyens, collecteurs et acteurs de la valorisation. L’application est en développement, pas encore disponible."
+  },
+  "a11y": {
+    "mainContent": "Page d’accueil Wastoo",
+    "skipToContent": "Aller au contenu principal",
+    "languageSwitcher": "Choisir la langue",
+    "siteNavigation": "Navigation principale",
+    "footerNavigation": "Navigation de pied de page",
+    "homeLink": "Accueil Wastoo",
+    "logoAlt": "Wastoo",
+    "languageNames": {
+      "ar": "العربية",
+      "fr": "Français",
+      "en": "English"
+    }
+  }
+}
